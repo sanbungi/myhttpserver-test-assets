@@ -1,0 +1,257 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1161 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 595 842 re f
+0.160 0.300 0.560 rg
+0 726 595 116 re f
+Q
+0.82 0.88 0.96 RG
+2 w
+72 652 451 94 re S
+0.160 0.360 0.560 rg
+72 590 451 24 re f
+0.240 0.360 0.600 rg
+72 534 417 24 re f
+0.320 0.360 0.640 rg
+72 478 383 24 re f
+0.88 0.92 0.97 RG
+1.5 w
+72 128 m 234 336 l S
+130 128 m 292 336 l S
+188 128 m 350 336 l S
+246 128 m 408 336 l S
+304 128 m 466 336 l S
+362 128 m 524 336 l S
+0.98 0.99 1 rg
+BT
+/F1 26 Tf
+30 TL
+1 0 0 1 72 768 Tm
+(Generated PDF fixture) Tj
+T*
+(Deterministic PDF asset for HTTP server tests) Tj
+ET
+0.18 0.22 0.30 rg
+BT
+/F1 12 Tf
+16 TL
+1 0 0 1 90 692 Tm
+(Page 1 of 3) Tj
+T*
+(Use this fixture for content-type, cache, range, and download checks.) Tj
+T*
+(Generated without external PDF dependencies.) Tj
+ET
+0.12 0.15 0.22 rg
+BT
+/F1 14 Tf
+22 TL
+1 0 0 1 72 420 Tm
+(Fixture notes) Tj
+T*
+(- Header title: Generated PDF fixture) Tj
+T*
+(- Page count: 3) Tj
+T*
+(- Layout uses vector rectangles, strokes, and text blocks.) Tj
+T*
+(- Metadata is deterministic for reproducible output bytes.) Tj
+ET
+0.26 0.32 0.42 rg
+BT
+/F1 11 Tf
+16 TL
+1 0 0 1 72 94 Tm
+(Path suggestion: /test-document.pdf) Tj
+T*
+(Script: scripts/generate_test_pdf.py) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1161 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 595 842 re f
+0.260 0.400 0.620 rg
+0 726 595 116 re f
+Q
+0.82 0.88 0.96 RG
+2 w
+72 652 451 94 re S
+0.260 0.460 0.620 rg
+72 590 451 24 re f
+0.340 0.460 0.660 rg
+72 534 417 24 re f
+0.420 0.460 0.700 rg
+72 478 383 24 re f
+0.88 0.92 0.97 RG
+1.5 w
+72 128 m 234 336 l S
+130 128 m 292 336 l S
+188 128 m 350 336 l S
+246 128 m 408 336 l S
+304 128 m 466 336 l S
+362 128 m 524 336 l S
+0.98 0.99 1 rg
+BT
+/F1 26 Tf
+30 TL
+1 0 0 1 72 768 Tm
+(Generated PDF fixture) Tj
+T*
+(Deterministic PDF asset for HTTP server tests) Tj
+ET
+0.18 0.22 0.30 rg
+BT
+/F1 12 Tf
+16 TL
+1 0 0 1 90 692 Tm
+(Page 2 of 3) Tj
+T*
+(Use this fixture for content-type, cache, range, and download checks.) Tj
+T*
+(Generated without external PDF dependencies.) Tj
+ET
+0.12 0.15 0.22 rg
+BT
+/F1 14 Tf
+22 TL
+1 0 0 1 72 420 Tm
+(Fixture notes) Tj
+T*
+(- Header title: Generated PDF fixture) Tj
+T*
+(- Page count: 3) Tj
+T*
+(- Layout uses vector rectangles, strokes, and text blocks.) Tj
+T*
+(- Metadata is deterministic for reproducible output bytes.) Tj
+ET
+0.26 0.32 0.42 rg
+BT
+/F1 11 Tf
+16 TL
+1 0 0 1 72 94 Tm
+(Path suggestion: /test-document.pdf) Tj
+T*
+(Script: scripts/generate_test_pdf.py) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 1161 >>
+stream
+q
+0.96 0.97 0.99 rg
+0 0 595 842 re f
+0.360 0.300 0.680 rg
+0 726 595 116 re f
+Q
+0.82 0.88 0.96 RG
+2 w
+72 652 451 94 re S
+0.360 0.360 0.680 rg
+72 590 451 24 re f
+0.440 0.360 0.720 rg
+72 534 417 24 re f
+0.520 0.360 0.760 rg
+72 478 383 24 re f
+0.88 0.92 0.97 RG
+1.5 w
+72 128 m 234 336 l S
+130 128 m 292 336 l S
+188 128 m 350 336 l S
+246 128 m 408 336 l S
+304 128 m 466 336 l S
+362 128 m 524 336 l S
+0.98 0.99 1 rg
+BT
+/F1 26 Tf
+30 TL
+1 0 0 1 72 768 Tm
+(Generated PDF fixture) Tj
+T*
+(Deterministic PDF asset for HTTP server tests) Tj
+ET
+0.18 0.22 0.30 rg
+BT
+/F1 12 Tf
+16 TL
+1 0 0 1 90 692 Tm
+(Page 3 of 3) Tj
+T*
+(Use this fixture for content-type, cache, range, and download checks.) Tj
+T*
+(Generated without external PDF dependencies.) Tj
+ET
+0.12 0.15 0.22 rg
+BT
+/F1 14 Tf
+22 TL
+1 0 0 1 72 420 Tm
+(Fixture notes) Tj
+T*
+(- Header title: Generated PDF fixture) Tj
+T*
+(- Page count: 3) Tj
+T*
+(- Layout uses vector rectangles, strokes, and text blocks.) Tj
+T*
+(- Metadata is deterministic for reproducible output bytes.) Tj
+ET
+0.26 0.32 0.42 rg
+BT
+/F1 11 Tf
+16 TL
+1 0 0 1 72 94 Tm
+(Path suggestion: /test-document.pdf) Tj
+T*
+(Script: scripts/generate_test_pdf.py) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Title <FEFF00470065006E006500720061007400650064002000500044004600200066006900780074007500720065> /Author (Codex) /Subject (HTTP server PDF fixture) /Creator (scripts/generate_test_pdf.py) /Producer (scripts/generate_test_pdf.py) /CreationDate (D:20260305000000Z) /ModDate (D:20260305000000Z) >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000000329 00000 n 
+0000001541 00000 n 
+0000001667 00000 n 
+0000002879 00000 n 
+0000003005 00000 n 
+0000004217 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R /Info 10 0 R >>
+startxref
+4532
+%%EOF
