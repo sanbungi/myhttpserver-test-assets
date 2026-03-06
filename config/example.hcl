@@ -26,12 +26,12 @@ global {
 server "main-server" {
   host = "example.com"
   port = 8443
-  root = "./html"
+  root = "./test-assets/html"
 
   tls {
     enabled = true
-    cert    = "/home/work/work/myhttpserver/server.crt"
-    key     = "/home/work/work/myhttpserver/server.key"
+    cert    = "server.crt"
+    key     = "server.key"
     min_version = "TLS1.2"
   }
 
