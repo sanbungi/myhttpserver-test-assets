@@ -63,6 +63,12 @@ server "main-server" {
     }
   }
 
+  route "/autoindex" {
+    type = "static"
+    autoindex = true
+    methods = ["GET", "HEAD", "OPTIONS"]
+  }
+
   route "/config" {
     type = "raw"
     
