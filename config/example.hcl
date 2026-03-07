@@ -5,6 +5,11 @@ global {
   timeout = "30s"
   compression_methods = ["zstd", "gzip"] # 許可方式 (優先順)
 
+  global {
+    ban_list_file = "./test-assets/config/ban-list.txt"
+  }
+
+
   logging {
     level = "info"
     app_name = "myhttpserver"
