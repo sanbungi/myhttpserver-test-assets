@@ -44,7 +44,7 @@ server "main-server" {
     add = {
       "X-Frame-Options" = "DENY"
     }
-    remove = ["Server", "X-Powered-By"]
+    remove = ["X-Powered-By"]
   }
 
   route "/" {
@@ -116,7 +116,7 @@ server "redirect-server" {
     index = [""]
 
     redirect {
-      url  = "https://192.168.0.108:8443$request_uri"
+      url  = "https://myhttp.nanora.work:443$request_uri"
       code = 301
     }
   }
